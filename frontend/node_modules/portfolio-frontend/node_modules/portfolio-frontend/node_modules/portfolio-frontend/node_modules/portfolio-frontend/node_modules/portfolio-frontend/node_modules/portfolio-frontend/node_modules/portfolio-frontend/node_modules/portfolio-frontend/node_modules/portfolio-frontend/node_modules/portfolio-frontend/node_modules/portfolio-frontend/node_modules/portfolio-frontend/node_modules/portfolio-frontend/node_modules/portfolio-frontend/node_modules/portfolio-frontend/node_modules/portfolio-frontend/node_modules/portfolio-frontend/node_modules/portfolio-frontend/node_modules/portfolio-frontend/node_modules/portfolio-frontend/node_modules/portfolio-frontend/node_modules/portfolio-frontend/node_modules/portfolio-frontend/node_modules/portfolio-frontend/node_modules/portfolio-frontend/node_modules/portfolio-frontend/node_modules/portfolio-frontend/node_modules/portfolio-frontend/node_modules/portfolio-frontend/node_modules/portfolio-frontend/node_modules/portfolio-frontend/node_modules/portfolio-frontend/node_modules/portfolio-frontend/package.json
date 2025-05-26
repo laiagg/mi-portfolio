@@ -1,0 +1,19 @@
+{
+    "name": "portfolio-frontend",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^1.3.0",
+        "portfolio-frontend": "file:",
+        "vue": "^3.3.0",
+        "vue-router": "^4.5.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "vite": "^4.0.0"
+    }
+}

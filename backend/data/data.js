@@ -2,21 +2,21 @@ const data = {
   name: "Laia",
   title: "Full-Stack Developer",
   photo: "/laia-photo.jpg",
-  about: "Hola, me llamo Laia, y soy una apasionada del desarrollo web con experiencia.",
+  about: "Hola, me llamo Laia, y me apasiona el desarrollo de aplicaciones",
   education: [
-    { degree: "Desarrollo de Aplicaciones Multiplataforma", year: "2023" },
-    { degree: "Desarrollo de Aplicaciones Web", year: "2024" }
+    { degree: "Desarrollo de Aplicaciones Multiplataforma", year: "2024" },
+    { degree: "Desarrollo de Aplicaciones Web", year: "2025" }
   ],
   projects: [
     { 
-      name: "Gestor de Tareas", 
-      description: "Una aplicación para gestionar tareas con Vue.js y Node.js.", 
-      link: "https://github.com/laia/task-manager" 
+      name: "Proyectos de prueba con SAP", 
+      description: "Una aplicación con fin de experimentar .", 
+      link: "" 
     },
     { 
-      name: "Blog Personal", 
-      description: "Blog creado con VuePress y Node.js.", 
-      link: "https://github.com/laia/personal-blog" 
+      name: "Portfolio Personal", 
+      description: "Este portfolio ha sido creado con Vue, Node.js y Vite.", 
+      link: "https://github.com/laiagg/mi-portfolio" 
     }
   ]
 };
